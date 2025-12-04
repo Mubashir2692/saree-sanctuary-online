@@ -4,13 +4,13 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: '#CDA434',  // Warm gold for ethnic luxury
-        secondary: '#A52A2A',  // Deep maroon accent
-        accent: '#F5F5DC',  // Beige for subtle elegance
+        primary: '#CDA434',  // Warm gold
+        secondary: '#A52A2A',  // Deep maroon
+        accent: '#F5F5DC',  // Beige elegance
       },
       fontFamily: {
-        heading: ['Playfair Display', 'serif'],  // Elegant titles
-        body: ['Inter', 'sans-serif'],  // Clean body text
+        heading: ['Playfair Display', 'serif'],
+        body: ['Inter', 'sans-serif'],
       },
     },
   },
